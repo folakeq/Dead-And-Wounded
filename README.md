@@ -17,3 +17,5 @@ The "Guesser" gets the same hints, Wounded meaning its right but in the wrong pl
 
 ## dead_and_wounded_game
 This combines the first two programs into a game with the two modes described above. Same rules and hints apply but the game only ends when either the player or Guesser wins.
+
+I'm open to any criticism and suggestions to make this game better. Have fun playing!
