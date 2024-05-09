@@ -53,7 +53,7 @@ if game_type == str(1):
 
 # Game play for Player vs Guesser
 elif game_type == str(2):
-    print("Hope you brought your guessing top, cause you're going D. Heres's how this works:\n"+
+    print("Hope you brought your guessing top, cause you're going DOWN. Heres's how this works:\n"+
           "You and I are going to choose random 4-digit numbers. Each digit is a number between 0 and 9, inclusive, and no digit is repeated\n"+
           "We have to guess each other's numbers until one of us gets it right. After each guess we get a hints about our guesses\n"+
           "Dead - The number guessed has some of the same digits, and is in the right position as our target number\n"+
